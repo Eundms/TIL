@@ -5,12 +5,12 @@
 ## 04. Operating System
 ## 05. Network
 ## 06. Design Pattern
-## 07. Language
-* Java ([🔗](../_07_language/java))
-* Kotlin ([🔗](../_07_language/kotlin))
 
 ---
 # ⭐ Spring Backend ⭐
+## 07. Language
+* Java ([🔗](../_07_language/java))
+* Kotlin ([🔗](../_07_language/kotlin))
 ## 08. Spring
 ## 09. JPA / SpringDataJPA
 * JPA ([🔗](../_09_jpa/JPA.md))
