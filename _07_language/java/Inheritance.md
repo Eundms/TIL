@@ -169,9 +169,7 @@ finalize 를 통해 GC가 작동되도록 요구할 수 있지만,
   만약, Super 생성자를 오버로딩한다면…!
 
   ```java
-  package com.ssafy.c_inheritance;
-
-  public class InheritanceTest {
+ public class InheritanceTest {
 
   	public static void main(String[] args) {
   		Sub subObject = new Sub();
